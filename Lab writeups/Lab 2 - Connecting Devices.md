@@ -14,7 +14,7 @@ Single-Mode Fiber 5KM (1Gbps) - 10-30 km (10Gbps)
 
 Here is what we need to connect:
 
-![](Screenshots/Pasted%20image%2020260227125542.png)
+![](/Screenshots/Pasted%20image%2020260227125542.png)
 
 So I think I'll start by building a table to be able to see things more clearly:
 
@@ -41,6 +41,6 @@ There we go! Mostly UTP cables with a single-mode Fiber Optic and a Multimode Fi
 
 Now that I've made the table, the connections should be pretty straightforward.
 
-![](Screenshots/Pasted%20image%2020260227132242.png)
+![](/Screenshots/Pasted%20image%2020260227132242.png)
 
 Easy peasy! This lab is done.
