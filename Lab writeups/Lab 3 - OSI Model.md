@@ -11,11 +11,13 @@ It shows IEEE 802.3 header, so this is an ethernet header.
 After that, I click 'Layer1'
 
 This time, it shows what's happening on Layer 1 for the same traffic. It shows information about the ports being used, so this is the Physical layer.
+
 ![](/Screenshots/Pasted%20image%2020260228140706.png)
 
 Next, I click 'R1' (router1) with the type OSPF. 
 
 OSPF is a layer 3 protocol. Its job is to find the best path in the networks. OSPF has Layer 3, 2, and 1 information. 
+
 ![](/Screenshots/Pasted%20image%2020260228140923.png)
 
 Next, I will generate some DHCP traffic, in order to see some Layer 7 (or Layer 5) traffic. First, I will click PC1 in Packet Tracer. Then I will click Desktop.

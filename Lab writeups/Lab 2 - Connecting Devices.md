@@ -37,6 +37,7 @@ So I think I'll start by building a table to be able to see things more clearly:
 | SW6-SW8    | Less than 100m | UTP                     | Crossover                     |
 | SW7-PC3    | Less than 100m | UTP                     | Straight-through              |
 | SW8-SRV1   | Less than 100m | UTP                     | Straight-through              |
+
 There we go! Mostly UTP cables with a single-mode Fiber Optic and a Multimode Fiber-Optic. I assume because no further info was given that the connections that did not mention distance were less than 100m.
 
 Now that I've made the table, the connections should be pretty straightforward.
