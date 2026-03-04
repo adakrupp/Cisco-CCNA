@@ -40,10 +40,15 @@ For this one, I used the following commands:
 Then I configured the descriptions:
 
 `int g0/0`
+
 `desc ## To SW1 ##`
+
 `int g0/1`
+
 `desc ## To SW2 ##`
+
 `int g0/2`
+
 `desc ## To SW2 ##`
 
 ![](/Screenshots/Pasted%20image%2020260303181718.png)
@@ -66,6 +71,7 @@ After that, I used the command `wr` to write the running config to the startup c
 To do this, I clicked into PC1, then Config > FastEthernet0
 
 ![](/Screenshots/Pasted%20image%2020260303182022.png)
+
 Then configured it to 15.0.0.1
 
 Next, I did the same for PC2 - configuring it to 182.98.0.1 and PC3 - configuring it to 201.191.20.1
@@ -74,7 +80,9 @@ Next, I did the same for PC2 - configuring it to 182.98.0.1 and PC3 - configurin
 Alright, from PC1 > Desktop > Command Line, I pinged the other two PCs with the following commands:
 
 `ping 182.98.0.1`
+
 `ping 201.191.20.1`
+
 And got the results below.
 
 ![](/Screenshots/Pasted%20image%2020260303182306.png)
