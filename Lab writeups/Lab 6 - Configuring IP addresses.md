@@ -22,17 +22,25 @@ I used the following command to see this:
 Configure appropriate interface descriptions
 
 For this one, I used the following commands:
+
 `conf t` to enter global configuration mode
+
 `int g0/0`
-`ip address 15.255.255.254 255.0.0.0
+
+`ip address 15.255.255.254 255.0.0.0`
+
 `no shut`
 
 `int g0/1`
+
 `ip address 182.98.255.254 255.255.0.0`
+
 `no shut`
 
 `int g0/2`
+
 `ip address 201.191.20.254 255.255.255.0`
+
 `no shut`
 
 ![](/Screenshots/Pasted%20image%2020260303180939.png)
