@@ -43,11 +43,14 @@ Once again, I exited Global Configuration Mode with `exit`, then I used the comm
 ![](/Screenshots/Pasted%20image%2020260228162322.png)
 
 7. Configure a more secure, encrypted enable password of 'Cisco' on both devices
+
 Again, I used `conf t` to go back into global configuration mode, then used the command `enable secret Cisco` to set the new password.
-8. Exit back to user EXEC mode and then return to privileged EXEC mode.
+
+7. Exit back to user EXEC mode and then return to privileged EXEC mode.
 - Which password do you have to use?
 From here `exit` command twice, then used the `enable` command and typed in the password 'Cisco'
-9. View the passwords in the running configuration.
+
+7. View the passwords in the running configuration.
 From here, I typed in the `show running-config` command.
 
 ![](/Screenshots/Pasted%20image%2020260228162715.png)
