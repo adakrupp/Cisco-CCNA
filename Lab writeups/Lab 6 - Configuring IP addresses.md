@@ -1,3 +1,5 @@
+This is the lab for Jeremy's IT Lab - Free CCNA days 7 and 8.
+
 ![](/Screenshots/Pasted%20image%2020260303175444.png)
 
 1. Configure R1's hostname

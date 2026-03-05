@@ -1,3 +1,4 @@
+This is the lab for Jeremy's IT Lab - Free CCNA Day 1.
 ### LAB INSTRUCTIONS:
 
 Create the network diagram displayed at 16:40 of the Day 1 video.

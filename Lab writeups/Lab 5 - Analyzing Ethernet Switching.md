@@ -1,3 +1,5 @@
+This is the lab for Jeremy's IT Lab - Free CCNA Day 5.
+
 This lab is regarding Ethernet switching.  Both switches have an empty MAC address table, and all PCs have an empty ARP table.
 
 ![](/Screenshots/Pasted%20image%2020260301143403.png)

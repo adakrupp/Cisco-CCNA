@@ -1,3 +1,11 @@
+This is the lab for Jeremy's IT Lab - Free CCNA Day 3. This time, I will do something a little different and do each question one at a time.
+
+1. Use 'simulation mode' to analyze the various traffic being sent throughout the network.
+What layers of the OSI model are being used?
+
+
+Analyze the traffic with simulation mode.
+
 Today I am using packet tracer's simulation mode to learn about the OSI model. I press the 'Simulation' mode, then I press play below. It starts sending out traffic. 
 
 
@@ -23,6 +31,9 @@ OSPF is a layer 3 protocol. Its job is to find the best path in the networks. OS
 Next, I will generate some DHCP traffic, in order to see some Layer 7 (or Layer 5) traffic. First, I will click PC1 in Packet Tracer. Then I will click Desktop.
 
 ![](/Screenshots/Pasted%20image%2020260228141209.png)
+
+
+2. Release and renew PC1's IP adress to generate some Layer 7 traffic.
 
 Then I click "Command Prompt" to use that to release and renew the IP address.
 

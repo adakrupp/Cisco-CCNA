@@ -1,3 +1,5 @@
+This is the lab for Jeremy's IT Lab - Free CCNA Day 4. 
+
 In this lab I will be getting hands-on with the Cisco IOS CLI. Here are the lab instructions:
 
 1. Change the hostnames of the router and switch to the appropriate names (R1, SW1)
