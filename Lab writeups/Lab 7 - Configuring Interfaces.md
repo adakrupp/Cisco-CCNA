@@ -58,8 +58,8 @@ Then on SW1:
 
 `int g0/1`
 
-`speed 1000
-`
+`speed 1000`
+
 `duplex full`
 
 `int g0/2`
